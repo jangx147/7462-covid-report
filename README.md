@@ -1,6 +1,6 @@
 # Wisconsin COVID Report
 
-Report last run: 2023-08-04 22:08:50
+Report last run: 2023-08-05 22:07:44
 
 ## Introduction
 
